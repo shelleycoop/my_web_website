@@ -1,11 +1,9 @@
 body  a{
-    margin-top: 40px;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin: 80px;
+    background-color: rgb(240, 209, 163);
 }
 
 body p {
-    margin-top: 40px;
-    margin-left: 60px;
-    margin-right: 60px;
+   margin: 80px;
+    background-color: rgb(243, 206, 152);
 }

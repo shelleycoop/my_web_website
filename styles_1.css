@@ -1,9 +1,5 @@
-body  a{
+body  {
     margin: 80px;
     background-color: rgb(240, 209, 163);
 }
 
-body p {
-   margin: 80px;
-    background-color: rgb(243, 206, 152);
-}

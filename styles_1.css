@@ -4,6 +4,9 @@ body  {
 }
 
 p {
-    font-size: 12px;
+    font-size: 20px;
 }
 
+a {
+    font-size: 20px;
+}
